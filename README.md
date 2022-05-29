@@ -1,6 +1,6 @@
 # CharterDemo
-# Sample Request - localhost:8080/rest/points:
-[
+# Sample Request - localhost:8080/rest/points
+```[
     {
         "month": "January",
         "amount": "120"
@@ -33,4 +33,4 @@
         "month": "December",
         "amount": "120"
     }
-]
+]```
