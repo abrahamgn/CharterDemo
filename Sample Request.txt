@@ -1,5 +1,3 @@
-# CharterDemo
-# Sample Request - localhost:8080/rest/points:
 [
     {
         "month": "January",
