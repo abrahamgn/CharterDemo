@@ -1,5 +1,11 @@
-# CharterDemo
-# Sample Request - localhost:8080/rest/points
+# Instructions:
+- Install JDK 8
+- Run the following commands in root directory:
+```
+./gradlew clean build
+./gradlew bootRun
+```
+# Sample Request JSON Body - localhost:8080/rest/points
 ```
 [
     {
@@ -35,3 +41,4 @@
         "amount": "120"
     }
 ]
+```
